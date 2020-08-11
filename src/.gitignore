@@ -1,0 +1,12 @@
+bin/*
+
+lib/*
+
+#ignore all class files
+*.class
+
+.classpath
+
+.project
+
+.settings
